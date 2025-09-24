@@ -1,8 +1,5 @@
 "use strict";
-/**
- * ts/ex3_servidor.ts
- * Conceitos: arrays numéricos, objetos, funções, enum, narrowing, média móvel simples
- */
+/*Conceitos: arrays numéricos, objetos, funções, enum, narrowing, média móvel simples*/
 Object.defineProperty(exports, "__esModule", { value: true });
 // 1) Leituras simples + média
 //criando um array com temperaturas
